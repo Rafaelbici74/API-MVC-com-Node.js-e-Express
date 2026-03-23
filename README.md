@@ -8,8 +8,11 @@ A estrutura MVC foi adotada para tornar o projeto mais organizado, escalável e 
 📚 Informações Acadêmicas
 
 Matéria: WEBII
+
 Professor: Adauto Michelotti
+
 Curso: Desenvolvimento de Sistemas
+
 Instituição: ETEC - Escola Técnica Estadual Professor Massuyuki Kawano-Tupã
 
 🛠️ Tecnologias Utilizadas
